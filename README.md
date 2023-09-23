@@ -1,6 +1,8 @@
 ## RiseOfAgora
 **Solarpunk Athens: Agora's Defense**
 
+<img>https://img.itch.zone/aW1hZ2UvMjI3MjQwMy8xMzQ4MjQ5MC5wbmc=/original/n2KWIr.png</img>
+
 ### Description: What is it?
 Solarpunk Athens is a massively multiplayer online (MMO) game set in a solarpunk-themed Athens. The game integrates advanced conversational AI (ConvAI) for NPC interactions and offers a unique blend of in-game and real-world skill development. Players defend the Agora servers from rogue AI hoards while also enhancing their skills both within and outside the game environment.
 
